@@ -46,7 +46,7 @@ The database consists of 20 tables with 19 relationships including:
 - Highest paid employee per union
 
 ## GitHub Repository
-[Link to your repository]
+(https://github.com/22312037/CMPE343-Ercan-airport-management-database-project)
 
 ## Date
 May 2026
